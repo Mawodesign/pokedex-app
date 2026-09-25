@@ -1,0 +1,17 @@
+{
+  "name": "PokéDex Scanner",
+  "short_name": "PokéDex",
+  "start_url": "/pokedex-app/",
+  "scope": "/pokedex-app/",
+  "display": "standalone",
+  "background_color": "#0E1014",
+  "theme_color": "#DC0A2D",
+  "icons": [
+    {
+      "src": "/pokedex-app/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
